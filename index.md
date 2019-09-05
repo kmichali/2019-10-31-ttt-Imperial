@@ -13,9 +13,6 @@ contact: ["m.callaghan@leeds.ac.uk"]    # boxed, comma-separated list of contact
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
-
   - venue: "The University of Leeds"
     address: "Emmanuel Centre seminar room 11, 1a Cavendish Rd, Leeds LS2 3AR"
     latlng: "53.807195, -1.552273"
