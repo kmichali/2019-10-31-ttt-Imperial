@@ -3,19 +3,19 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "uk"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "September 25-26 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9.30am - 4.45pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-09-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-06-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Alexandra Nenadic", "Martin Callaghan"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+humandate: "October 31- November 1, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "10:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2019-10-31      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-11-1        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Martin Callaghan", "Katerina Michalickova"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["m.callaghan@leeds.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+contact: ["k.michalickova@imperial.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "The University of Leeds"
-    address: "Emmanuel Centre seminar room 11, 1a Cavendish Rd, Leeds LS2 3AR"
-    latlng: "53.807195, -1.552273"
+  - venue: "Imperial College London"
+    address: "ICT training room, Central Library 204, South Kensington campus"
+    latlng: "51.498152,-0.178368"
 
 ---
 
@@ -185,6 +185,11 @@ Please email
 {% endif %}
 for more information.
 </p>
+
+<hr/>
+
+<h2>Register your interest</h2>
+<p>Please register your interest in becoming a Software Carpentry instructor <a href="">here</a></p>
 
 <hr/>
 
