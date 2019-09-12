@@ -10,7 +10,7 @@ enddate: 2019-11-1        # machine-readable end date for the workshop in YYYY-M
 instructor: ["Martin Callaghan", "Katerina Michalickova"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["k.michalickova@imperial.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad:   ["http://pad.carpentries.org/2019-10-31-ttt-Imperial"]             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Imperial College London"
@@ -189,7 +189,7 @@ for more information.
 <hr/>
 
 <h2>Register your interest</h2>
-<p>Please register your interest in becoming a Software Carpentry instructor <a href="">here</a></p>
+<p>Please register your interest in becoming a Software Carpentry instructor <a href="">here.</a></p>
 
 <hr/>
 
