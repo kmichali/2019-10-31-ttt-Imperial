@@ -189,7 +189,7 @@ for more information.
 <hr/>
 
 <h2>Register your interest</h2>
-<p>Please register your interest in becoming a Software Carpentry instructor <a href="">here.</a></p>
+<p>Please register your interest in becoming a Software Carpentry instructor <a href="https://forms.gle/uUAxgwMYoKeF5Ep77">here.</a></p>
 
 <hr/>
 
