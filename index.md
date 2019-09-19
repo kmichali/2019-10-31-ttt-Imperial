@@ -59,7 +59,7 @@ locations:
 
 <p>
   The course is aimed at colleagues who are
-  interested in becoming a better teacher and to contribute to our regular workshops.  You don't currently have to have an extensive teaching experience to attend this workshop, but you do need to be willing and
+  interested in becoming a better teacher and in contributing to our regular workshops.  You don't currently have to have an extensive teaching experience to attend this workshop, but you do need to be willing and
   committed to becoming one and to learning about and improving your teaching techniques.
 </p>
 
