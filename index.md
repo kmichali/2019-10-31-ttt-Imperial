@@ -58,13 +58,8 @@ locations:
 -->
 
 <p>
-  The course is aimed at colleagues at Leeds who is
-  interested in becoming a better teacher. In particular, this training
-  is aimed at those who want to become <a href="{{ site.swc_site }}">Software Carpentry</a>,
-  <a href="{{ site.lc_site }}">Library Carpentry</a>, and <a href="{{ site.dc_site }}">Data Carpentry</a>
-  Instructors, run workshops and contribute to The Carpentries training
-  materials. You don't currently have to be an instructor or a
-  teacher to attend this workshop, but you do need to be willing and
+  The course is aimed at colleagues who are
+  interested in becoming a better teacher and to contribute to our regular workshops.  You don't currently have to have an extensive teaching experience to attend this workshop, but you do need to be willing and
   committed to becoming one and to learning about and improving your teaching techniques.
 </p>
 
