@@ -278,7 +278,7 @@ for more information.
   e.g., '2015-06-10-esu'.
 -->
 {% if page.etherpad %}
-<hr/>
+<h2>Shared document</h2>
 
 <p id="etherpad">
   <strong>Google doc:</strong> <a href="https://docs.google.com/document/d/1jFDOZMiXczwceq3a0Y8iY_ig7Bmgf-0Xf5dF82-txxw">{{page.etherpad}}</a>.
