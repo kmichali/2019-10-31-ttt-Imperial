@@ -281,9 +281,9 @@ for more information.
 <h2>Shared document</h2>
 
 <p id="etherpad">
-  <a href="https://docs.google.com/document/d/1oIuMRVGD6HA6l4gXDuX-ZLvjdgO9Ye-ckb4MYk-F5UE/edit">Day 1.</a>.
+  <a href="https://docs.google.com/document/d/1oIuMRVGD6HA6l4gXDuX-ZLvjdgO9Ye-ckb4MYk-F5UE/edit">Day 1.</a>
   <br/>
-   <a href="https://docs.google.com/document/d/1--TBBHggio-H5V7s_DkiSr40f1kPcM0mF6c7006KOQk/edit">Day 2.</a>.
+   <a href="https://docs.google.com/document/d/1--TBBHggio-H5V7s_DkiSr40f1kPcM0mF6c7006KOQk/edit">Day 2.</a>
   <br/>
   We will use this document for chatting, taking notes, and sharing URLs and bits of code.
 </p>
