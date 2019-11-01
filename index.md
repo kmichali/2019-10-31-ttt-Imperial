@@ -281,7 +281,8 @@ for more information.
 <h2>Shared document</h2>
 
 <p id="etherpad">
-  <strong>Google doc:</strong> <a href="https://docs.google.com/document/d/1jFDOZMiXczwceq3a0Y8iY_ig7Bmgf-0Xf5dF82-txxw">{{page.etherpad}}</a>.
+  <strong>Google doc day 1:</strong> <a href="https://docs.google.com/document/d/1jFDOZMiXczwceq3a0Y8iY_ig7Bmgf-0Xf5dF82-txxw"></a>.
+   <strong>Google doc day 2:</strong> <a href="https://docs.google.com/document/d/1--TBBHggio-H5V7s_DkiSr40f1kPcM0mF6c7006KOQk/edit"</a>. 
   <br/>
   We will use this document for chatting, taking notes, and sharing URLs and bits of code.
 </p>
